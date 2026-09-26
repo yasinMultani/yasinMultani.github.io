@@ -239,7 +239,7 @@ export default function Home() {
           <a href="mailto:multani.yasin@gmail.com"><b>Email me</b><small>multani.yasin@gmail.com</small><span>↗</span></a>
           <a href="tel:+918141834322"><b>Call me</b><small>+91 81418 34322</small><span>↗</span></a>
           <a href="https://www.linkedin.com/in/yasin-multani-940b0165/" target="_blank"><b>LinkedIn</b><small>Connect professionally</small><span>↗</span></a>
-          <a href="/resume.pdf" download><b>Download resume</b><small>PDF · Yasin Multani</small><span>↓</span></a>
+          <a href="/Yasin_Multani_Senior_iOS_Developer_Resume.pdf" download><b>Download resume</b><small>PDF · Yasin Multani</small><span>↓</span></a>
         </div>
         <div className="footer-line"><span>multani.yasin@gmail.com</span><span>+91 81418 34322</span><span>Ahmedabad, India</span></div>
       </section>
